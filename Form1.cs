@@ -160,5 +160,6 @@ namespace Registros_GestionDeClientes
         {
             ControlarCajas();
         }
+
     }
 }
